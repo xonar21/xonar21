@@ -35,11 +35,7 @@
   <a href="https://github.com/xonar21/how-to-learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=how-to-learn&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
-
-## 🔥 Streak stats
+## 🔥 Статистика
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
