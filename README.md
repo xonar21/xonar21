@@ -2,7 +2,16 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=370&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C" alt="Typing SVG" /></a>
 </p>
-
+<p>
+  Мне нравится создавать сайты, хочу
+развиваться в этой сфере. Веб
+разработка привлекает меня своим
+объемом информации и гибкостью.
+Столько идей и возможностей можно
+реализовать. Могу длительно и
+вовлечённо работать и получать от
+этого удовольствие. В дальнейшем хочу изучить: Angular, TypeScript, Vue.js, SCSS.
+</p>
 <p align="center">
   <a href="https://hh.ru/resume/fb9446e0ff07f0cd550039ed1f444845317533"><img width="32px" alt="Youtube" title="Youtube" src="/images/hh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
