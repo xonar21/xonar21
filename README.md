@@ -7,7 +7,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://hh.ru/resume/fb9446e0ff07f0cd550039ed1f444845317533"><img width="32px" alt="Youtube" title="Youtube" src="../downloads/hh.png"/></a>
+  <a href="https://hh.ru/resume/fb9446e0ff07f0cd550039ed1f444845317533"><img width="32px" alt="Youtube" title="Youtube" src="/images/hh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jean-spynu-360781254/"><img width="32px" alt="Twitter" title="Twitter" src="../downloads/ln.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
