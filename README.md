@@ -39,8 +39,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=xonar21" alt="github-readme-stats"></a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=xonar21&theme=tokyonight" alt="github-readme-stats"></a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
