@@ -9,13 +9,13 @@
 <p align="center">
   <a href="https://hh.ru/resume/fb9446e0ff07f0cd550039ed1f444845317533"><img width="32px" alt="Youtube" title="Youtube" src="/images/hh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jean-spynu-360781254/"><img width="32px" alt="Twitter" title="Twitter" src="../downloads/ln.png"/></a>
+  <a href="https://www.linkedin.com/in/jean-spynu-360781254/"><img width="32px" alt="Twitter" title="Twitter" src="/images/ln.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/id360041060" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="../downloads/vk.png"/></a>
+  <a href="https://vk.com/id360041060" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="/images/vk.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://web.telegram.org/?legacy=1#/im?p=@xonar21"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="../downloads/tg.png"></a>
+  <a href="https://web.telegram.org/?legacy=1#/im?p=@xonar21"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="/images/tg.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://career.habr.com/xonar22"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="../downloads/hb.png"/></a>
+  <a href="https://career.habr.com/xonar22"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/images/hb.png"/></a>
 </p>
 
 <br/>
