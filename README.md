@@ -78,37 +78,9 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
-
-
-
-## 📊 Github stats
+## 📊 Github статистика
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=xonar21&theme=react" /></a>
+</p>
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-
-1. ❗️ Opened issue [#178](https://github.com/PyCQA/autoflake/issues/178) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-2. 💪 Opened PR [#177](https://github.com/PyCQA/autoflake/pull/177) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-3. 🗣 Commented on [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-4. ❗️ Opened issue [#176](https://github.com/PyCQA/autoflake/issues/176) in [PyCQA/autoflake](https://github.com/PyCQA/autoflake)
-5. 🗣 Commented on [#856](https://github.com/nextcord/nextcord/issues/856) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-    <!--END_SECTION:activity-->
-    </details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=xonar21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
