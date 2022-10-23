@@ -22,17 +22,17 @@
 
 
 
-## 📕 Top projects I've contributed to
+## 📕 Мои проекты
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=movies-explorer-frontend&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=movies-explorer-api&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=mesto-backend&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=mesto-frontend&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=collabio&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=collabioServer&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=russian-travel&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=how-to-learn&show_icons=true&theme=tokyonight" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/movies-explorer-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=movies-explorer-frontend&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/movies-explorer-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=movies-explorer-api&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/mesto-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=mesto-backend&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/mesto-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=mesto-frontend&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/collabio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=collabio&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/collabioServer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=collabioServer&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/russian-travel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=russian-travel&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
+  <a href="https://github.com/xonar21/how-to-learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=how-to-learn&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
 </p>
 
 <p align="left">
