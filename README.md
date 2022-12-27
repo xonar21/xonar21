@@ -69,7 +69,6 @@
 ### 🗄️ Базы данных и облачный хостинг
 
 <p>
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
     <img src="https://www.svgrepo.com/show/354512/vercel.svg" width="40"/>
@@ -85,8 +84,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40"/>
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/>
-    <img src="https://www.svgrepo.com/show/354388/stackoverflow.svg" width="40"/>
-    <img src="https://www.svgrepo.com/show/354388/stackoverflow.svg" width="40"/>
+    <img src="https://www.svgrepo.com/show/354388/stackoverflow.svg" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
     <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40"/>
