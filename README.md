@@ -58,9 +58,12 @@
 <p>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/VUE-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
+    <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetufy-%2335495e.svg?logo=vuetify&logoColor=blue"></a>
+    <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
+  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
+  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
+  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
 </p>
 
 ### 🗄️ Базы данных и облачный хостинг
