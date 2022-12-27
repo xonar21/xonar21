@@ -15,7 +15,7 @@
   <a href="https://career.habr.com/xonar22"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="/images/hb.png"/></a>
 </p>
 <p align="center" width="100px">
-Мне нравится создавать сайты, хочу развиваться в этой сфере. Веб разработка привлекает меня своим объемом информации и гибкостью. Столько идей и возможностей можно реализовать. Могу длительно и вовлечённо работать и получать от этого удовольствие. В дальнейшем хочу изучить: 𝙰𝚗𝚐𝚞𝚕𝚊𝚛, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝.
+I like to create websites, I want to develop in this area. Web development attracts me with its volume of information and flexibility. So many ideas and possibilities can be realized. I can work long and hard and enjoy it. In the future I want to study: 𝙰𝚗𝚐𝚞𝚕𝚊𝚛, 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝
 </p>
 <br/>
 
