@@ -19,7 +19,7 @@ I like to create websites, I want to develop in this area. Web development attra
 </p>
 <br/>
 
-## 📕 Мои проекты
+## 📕 My projects
 
 <p align="center">
   <a href="https://github.com/xonar21/movies-explorer-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=movies-explorer-frontend&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
@@ -32,7 +32,7 @@ I like to create websites, I want to develop in this area. Web development attra
   <a href="https://github.com/xonar21/how-to-learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xonar21&repo=how-to-learn&show_icons=true&theme=material-palenight&border_radius=25" alt="github-readme-stats"></a>
 </p>
 
-## 🔥 Статистика
+## 🔥 Statistics
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=xonar21&theme=cobalt" alt="github-readme-stats"></a>
@@ -42,9 +42,9 @@ I like to create websites, I want to develop in this area. Web development attra
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonar21&layout=compact&theme=shades-of-purple" alt="github-readme-stats"></a>
 </p>
 
-## 🛠️ Мои инструменты
+## 🛠️ My tools
 
-### 👨‍💻 Языки программирования и разметки
+### 👨‍💻 Programming and markup languages
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40"/>
@@ -53,7 +53,7 @@ I like to create websites, I want to develop in this area. Web development attra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40"/>
 </p>
 
-### 🧰 Фреймворки и библиотеки
+### 🧰 Frameworks and Libraries
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40"/>
@@ -66,7 +66,7 @@ I like to create websites, I want to develop in this area. Web development attra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40"/>
 </p>
 
-### 🗄️ Базы данных и облачный хостинг
+### 🗄️ Databases and cloud hosting
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40"/>
@@ -75,7 +75,7 @@ I like to create websites, I want to develop in this area. Web development attra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
-### 💻 Программное обеспечение и инструменты
+### 💻 Software and Tools
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
@@ -90,7 +90,7 @@ I like to create websites, I want to develop in this area. Web development attra
     <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40"/>
 </p>
 
-## 📊 Github статистика
+## 📊 Github statistics
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=xonar21&theme=react" /></a>
 </p>
