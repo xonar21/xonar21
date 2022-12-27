@@ -47,24 +47,23 @@
 ### 👨‍💻 Языки программирования и разметки
 
 <p>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> 
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>  
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40"/>
 </p>
 
 ### 🧰 Фреймворки и библиотеки
 
 <p>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/VUE-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-    <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetufy-%2335495e.svg?logo=vuetify&logoColor=blue"></a>
-    <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
-  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
-  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
-  <a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2335495e.svg?logo=vuex&logoColor=dark"></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuestorefront/vuestorefront-original.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"  width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40"/>
 </p>
 
 ### 🗄️ Базы данных и облачный хостинг
